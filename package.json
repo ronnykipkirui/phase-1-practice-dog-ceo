@@ -1,0 +1,21 @@
+{
+  "name": "phase-1-practice-dog-ceo",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnykipkirui/phase-1-practice-dog-ceo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnykipkirui/phase-1-practice-dog-ceo/issues"
+  },
+  "homepage": "https://github.com/ronnykipkirui/phase-1-practice-dog-ceo#readme"
+}
